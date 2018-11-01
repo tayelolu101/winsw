@@ -1,0 +1,2 @@
+atmlog install
+atmlog start
